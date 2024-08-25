@@ -7,6 +7,97 @@
 # Note: If you run into errors because of missing access rights to performance counters, try
 # https://developer.nvidia.com/nvidia-development-tools-solutions-err_nvgpuctrperm-permission-issue-performance-counters#SolnAdminTag
 # runs profiling with ncu, generates a `profile.ncu-rep` for viewing with NSight Compute, and prints out
+# basic kernel stats.# runs profiling with ncu, generates a `profile.ncu-rep` for viewing with NSight Compute, and prints out
+# basic kernel stats.
+# Note: If you run into errors because of missing access rights to performance counters, try
+# https://developer.nvidia.com/nvidia-development-tools-solutions-err_nvgpuctrperm-permission-issue-performance-counters#SolnAdminTag
+# runs profiling with ncu, generates a `profile.ncu-rep` for viewing with NSight Compute, and prints out
+# basic kernel stats.
+# Note: If you run into errors because of missing access rights to performance counters, try
+# https://developer.nvidia.com/nvidia-development-tools-solutions-err_nvgpuctrperm-permission-issue-performance-counters#SolnAdminTag
+# runs profiling with ncu, generates a `profile.ncu-rep` for viewing with NSight Compute, and prints out
+# basic kernel stats.
+# Note: If you run into errors because of missing access rights to performance counters, try
+# https://developer.nvidia.com/nvidia-development-tools-solutions-err_nvgpuctrperm-permission-issue-performance-counters#SolnAdminTag
+# runs profiling with ncu, generates a `profile.ncu-rep` for viewing with NSight Compute, and prints out
+# basic kernel stats.# runs profiling with ncu, generates a `profile.ncu-rep` for viewing with NSight Compute, and prints out
+# basic kernel stats.
+# Note: If you run into errors because of missing access rights to performance counters, try
+# https://developer.nvidia.com/nvidia-development-tools-solutions-err_nvgpuctrperm-permission-issue-performance-counters#SolnAdminTag
+# runs profiling with ncu, generates a `profile.ncu-rep` for viewing with NSight Compute, and prints out
+# basic kernel stats.
+# Note: If you run into errors because of missing access rights to performance counters, try
+# https://developer.nvidia.com/nvidia-development-tools-solutions-err_nvgpuctrperm-permission-issue-performance-counters#SolnAdminTag
+# runs profiling with ncu, generates a `profile.ncu-rep` for viewing with NSight Compute, and prints out
+# basic kernel stats.
+# Note: If you run into errors because of missing access rights to performance counters, try
+# https://developer.nvidia.com/nvidia-development-tools-solutions-err_nvgpuctrperm-permission-issue-performance-counters#SolnAdminTag
+# runs profiling with ncu, generates a `profile.ncu-rep` for viewing with NSight Compute, and prints out
+# basic kernel stats.# runs profiling with ncu, generates a `profile.ncu-rep` for viewing with NSight Compute, and prints out
+# basic kernel stats.
+# Note: If you run into errors because of missing access rights to performance counters, try
+# https://developer.nvidia.com/nvidia-development-tools-solutions-err_nvgpuctrperm-permission-issue-performance-counters#SolnAdminTag
+# runs profiling with ncu, generates a `profile.ncu-rep` for viewing with NSight Compute, and prints out
+# basic kernel stats.
+# Note: If you run into errors because of missing access rights to performance counters, try
+# https://developer.nvidia.com/nvidia-development-tools-solutions-err_nvgpuctrperm-permission-issue-performance-counters#SolnAdminTag
+# runs profiling with ncu, generates a `profile.ncu-rep` for viewing with NSight Compute, and prints out
+# basic kernel stats.
+# Note: If you run into errors because of missing access rights to performance counters, try
+# https://developer.nvidia.com/nvidia-development-tools-solutions-err_nvgpuctrperm-permission-issue-performance-counters#SolnAdminTag
+# runs profiling with nc# runs profiling with ncu, generates a `profile.ncu-rep` for viewing with NSight Compute, and prints out
+# basic kernel stats.
+# Note: If you run into errors because of missing access rights to performance counters, try
+# https://developer.nvidia.com/nvidia-development-tools-solutions-err_nvgpuctrperm-permission-issue-performance-counters#SolnAdminTag
+# runs profiling with ncu, generates a `profile.ncu-rep` for viewing with NSight Compute, and prints out
+# basic kernel stats.
+# Note: If you run into errors because of missing access rights to performance counters, try
+# https://developer.nvidia.com/nvidia-development-tools-solutions-err_nvgpuctrperm-permission-issue-performance-counters#SolnAdminTag
+# runs profiling with ncu, generates a `profile.ncu-rep` for viewing with NSight Compute, and prints out
+# basic kernel stats.
+# Note: If you run into errors because of missing access rights to performance counters, try
+# https://developer.nvidia.com/nvidia-development-tools-solutions-err_nvgpuctrperm-permission-issue-performance-counters#SolnAdminTag
+# runs profiling with ncu, generates a `profile.ncu-rep` for viewing with NSight Compute, and prints out
+# basic kernel stats.# runs profiling with ncu, generates a `profile.ncu-rep` for viewing with NSight Compute, and prints out
+# basic kernel stats.
+# Note: If you run into errors because of missing access rights to performance counters, try
+# https://developer.nvidia.com/nvidia-development-tools-solutions-err_nvgpuctrperm-permission-issue-performance-counters#SolnAdminTag
+# runs profiling with ncu, generates a `profile.ncu-rep` for viewing with NSight Compute, and prints out
+# basic kernel stats.
+# Note: If you run into errors because of missing access rights to performance counters, try
+# https://developer.nvidia.com/nvidia-development-tools-solutions-err_nvgpuctrperm-permission-issue-performance-counters#SolnAdminTag
+# runs profiling with ncu, generates a `profile.ncu-rep` for viewing with NSight Compute, and prints out
+# basic kernel stats.
+# Note: If you run into errors because of missing access rights to performance counters, try
+# https://developer.nvidia.com/nvidia-development-tools-solutions-err_nvgpuctrperm-permission-issue-performance-counters#SolnAdminTag
+# runs profiling with ncu, generates a `profile.ncu-rep` for viewing with NSight Compute, and prints out
+# basic kernel stats.u, generates a `profile.ncu-rep` for viewing with NSight Compute, and prints out
+# basic kernel stats.# runs profiling with ncu, generates a `profile.ncu-rep` for viewing with NSight Compute, and prints out
+# basic kernel stats.
+# Note: If you run into errors because of missing access rights to performance counters, try
+# https://developer.nvidia.com/nvidia-development-tools-solutions-err_nvgpuctrperm-permission-issue-performance-counters#SolnAdminTag
+# runs profiling with ncu, generates a `profile.ncu-rep` for viewing with NSight Compute, and prints out
+# basic kernel stats.
+# Note: If you run into errors because of missing access rights to performance counters, try
+# https://developer.nvidia.com/nvidia-development-tools-solutions-err_nvgpuctrperm-permission-issue-performance-counters#SolnAdminTag
+# runs profiling with ncu, generates a `profile.ncu-rep` for viewing with NSight Compute, and prints out
+# basic kernel stats.
+# Note: If you run into errors because of missing access rights to performance counters, try
+# https://developer.nvidia.com/nvidia-development-tools-solutions-err_nvgpuctrperm-permission-issue-performance-counters#SolnAdminTag
+# runs profiling with ncu, generates a `profile.ncu-rep` for viewing with NSight Compute, and prints out
+# basic kernel stats.# runs profiling with ncu, generates a `profile.ncu-rep` for viewing with NSight Compute, and prints out
+# basic kernel stats.
+# Note: If you run into errors because of missing access rights to performance counters, try
+# https://developer.nvidia.com/nvidia-development-tools-solutions-err_nvgpuctrperm-permission-issue-performance-counters#SolnAdminTag
+# runs profiling with ncu, generates a `profile.ncu-rep` for viewing with NSight Compute, and prints out
+# basic kernel stats.
+# Note: If you run into errors because of missing access rights to performance counters, try
+# https://developer.nvidia.com/nvidia-development-tools-solutions-err_nvgpuctrperm-permission-issue-performance-counters#SolnAdminTag
+# runs profiling with ncu, generates a `profile.ncu-rep` for viewing with NSight Compute, and prints out
+# basic kernel stats.
+# Note: If you run into errors because of missing access rights to performance counters, try
+# https://developer.nvidia.com/nvidia-development-tools-solutions-err_nvgpuctrperm-permission-issue-performance-counters#SolnAdminTag
+# runs profiling with ncu, generates a `profile.ncu-rep` for viewing with NSight Compute, and prints out
 # basic kernel stats.
 # Note: If you run into errors because of missing access rights to performance counters, try
 # https://developer.nvidia.com/nvidia-development-tools-solutions-err_nvgpuctrperm-permission-issue-performance-counters#SolnAdminTag
