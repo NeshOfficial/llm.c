@@ -1,12 +1,33 @@
-#options = subprocess.check_output(["modprobe", "-c", "nvidia"], text=True)
-#an_profile = len([l for l in options.splitlines() if "NVreg_RestrictProfilingToAdminUsers=0" in l]) != 0
+import requests
+from functools import wraps
 
-# record metrics
-# --full and --import-source are entirely superfluous for this script, but you might want to
-# manually inspect `profile.ncu-rep`, so we keep it here
-cmd = [ "--set", "full", "--import-source", "yes", "-o", "profile", "-f", "./profile_gpt2cu"]
-# # do we need to run under sudo
-# if not can_profile:
-#     print("NVreg_RestrictProfilingToAdminUsers=1, running with sudo")
-#     cmd = ["sudo"] + cmd
-# subprocess.check_call(cmd)
+def exception_handler(func):
+    @wraps(func)
+    def wrapper(*args, **kwargs):
+        try:
+            return func(*args, **kwargs)
+        except Exception as e:
+            print(f"An error occurred in {func.__name__}: {e}")
+            return None
+    return wrapper
+
+@exception_handler
+def fetch_data_from_api(url):
+    response = requests.get(url)
+    response.raise_for_status()
+    return response.json()
+
+def filter_even_numbers(numbers):
+    return [num for num in numbers if num % 2 == 0]
+
+def square_numbers(numbers):
+    return [num ** 2 for num in numbers]
+
+@exception_handler
+def save_data_to_file(data, filename):
+    with open(filename, 'w') as file:
+        for item in data:
+            file.write(f"{item}\n")
+    print(f"Data saved to {filename}")
+
+
