@@ -1,5 +1,3 @@
-<<<<<<< authentication
-=======
 import string
 import random
 import os
@@ -27,4 +25,3 @@ file_path = os.path.join(safe_directory, difficult_filename)
 write_lines_to_file(file_path)
 
 print(f'File with difficult name created at: {file_path}')
->>>>>>> local
